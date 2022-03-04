@@ -200,7 +200,7 @@ $(document).ready(function () {
             address: 'ITC Fortune Park Hotel, Kolkata',
 
             // Event Description
-            description: "We can't wait to see you on our big day. For any queries or issues, please contact Mr. Amit Roy at +91 9876543210."
+            description: "We can't wait to see you on our big day. For any queries or issues, please contact Mr. Amit Ray at +91 9876543210."
         }
     });
 
@@ -216,7 +216,7 @@ $(document).ready(function () {
 
         if (MD5($('#invite_code').val()) !== 'b0e53b10c1f55ede516b240036b88f40'
             && MD5($('#invite_code').val()) !== '16a44bba61d179d206e451fee03db75b') {
-            $('#alert-wrapper').html(alert_markup('danger', '<strong>Sorry!</strong> Your invite code is niet goed.'));
+            $('#alert-wrapper').html(alert_markup('danger', '<strong>Sorry!</strong> Your invite code is niet goed zo.'));
         } else {
             $.post('https://script.google.com/macros/s/AKfycbz1kEAamCi51KxSIK72PtNezlm8pSDIXlFMFO5Rca3Db4Bg-DqAVKc05I1HJC2YKMtoVw/exec', data)
                 .done(function (data) {
