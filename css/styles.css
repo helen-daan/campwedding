@@ -344,12 +344,12 @@ section .header {
 }
 .hero {
   min-height: 750px;
-  background: url("../img/std_background.png") center center;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-  position: relative;
+  background: url("../img/cutout.png") right bottom, url("../img/std_background.png") center bottom;
+  -webkit-background-size: contain, cover;
+  -moz-background-size: contain, cover;
+  -o-background-size: contain, cover;
+  background-size: contain, cover;
+  position: relative, relative;
 }
 .hero .down-arrow a {
   color: #fff;
