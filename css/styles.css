@@ -785,7 +785,7 @@ header .member-actions {
 }
 #map-canvas {
   height: 500px;
-  width: 100%;
+  width: 80%;
 }
 #map-content-wrapper {
   position: relative;
@@ -794,8 +794,9 @@ header .member-actions {
 }
 #map-content {
   margin-top: 40px;
-  padding: 50px 60px;
+  padding: 20px 20px;
   background: #fff;
+  width: 300px;
   -webkit-transition: opacity 0.5s, visibility 0.6s, margin-top 0.5s;
   transition: opacity 0.5s, visibility 0.6s, margin-top 0.5s;
 }
