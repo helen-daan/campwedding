@@ -348,7 +348,7 @@ section .header {
   -webkit-background-size: contain, cover;
   -moz-background-size: contain, cover;
   -o-background-size: contain, cover;
-  background-size: contain, cover;
+  background-size: auto, cover;
   background-repeat: no-repeat, no-repeat;
   position: relative, relative;
 }
@@ -603,6 +603,11 @@ header .member-actions {
   transform: translateX(-50%);
 }
 .events .leftcol {
+  padding-right: 100px;
+  border-right: solid 1px #e6e9ea;
+}
+.events .midcol {
+  padding-left: 100px;
   padding-right: 100px;
   border-right: solid 1px #e6e9ea;
 }
