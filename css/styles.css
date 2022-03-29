@@ -349,6 +349,7 @@ section .header {
   -moz-background-size: contain, cover;
   -o-background-size: contain, cover;
   background-size: contain, cover;
+  background-repeat: no-repeat, no-repeat;
   position: relative, relative;
 }
 .hero .down-arrow a {
