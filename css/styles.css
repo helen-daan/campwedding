@@ -603,16 +603,16 @@ header .member-actions {
   transform: translateX(-50%);
 }
 .events .leftcol {
-  padding-right: 100px;
+  padding-right: 50px;
   border-right: solid 1px #e6e9ea;
 }
 .events .midcol {
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
   border-right: solid 1px #e6e9ea;
 }
 .events .rightcol {
-  padding-left: 100px;
+  padding-left: 50px;
 }
 .events .time {
   font-size: 13px;
