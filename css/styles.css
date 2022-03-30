@@ -344,13 +344,12 @@ section .header {
 }
 .hero {
   min-height: 750px;
-  background: url("../img/cutout.png") right bottom, url("../img/std_background.png") center bottom;
-  -webkit-background-size: contain, cover;
-  -moz-background-size: contain, cover;
-  -o-background-size: contain, cover;
-  background-size: auto, cover;
-  background-repeat: no-repeat, no-repeat;
-  position: relative, relative;
+  background-color: rgba(215,180,140,.7);
+  background-image: url("../img/oak.jpg");
+  background-blend-mode: color;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 .hero .down-arrow a {
   color: #fff;
@@ -380,7 +379,7 @@ section .header {
 }
 .fixed {
   position: fixed;
-  background-color: rgba(55, 36, 40, 0.88);
+  background-color: rgba(40, 55, 25, 0.88);
   z-index: 999;
   width: 100%;
 }
