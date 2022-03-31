@@ -381,6 +381,16 @@
                 <form id="rsvp-form" class="rsvp-form"
                       action=""
                       method="POST">
+                   
+                      <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-user"></i><input name="name" class=""
+                                                                 placeholder="Your name"
+                                                                 required>
+                            </div>
+                        </div>
+                    
+                    
                     <div class="row">
                         <div class="col-md-6 col-sm-6">
                             <div class="form-input-group">
@@ -389,20 +399,14 @@
                                                                      required>
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
-                            <div class="form-input-group">
-                                <i class="fa fa-user"></i><input name="name" class=""
-                                                                 placeholder="Your name"
-                                                                 required>
-                            </div>
-                        </div>
+
                     </div>
                     <div class="row">
                         <div class="col-md-6 col-sm-6">
                             <div class="form-input-group">
                                 <i class="fa fa-users"></i><input type="number" name="extras" class="" min="0"
                                                                   max="4"
-                                                                  placeholder="Partner or kids"
+                                                                  placeholder="Do you have any plus ones?"
                                                                   required>
                             </div>
                         </div>
@@ -419,20 +423,31 @@
                         <div class="col-md-6 col-sm-6">
                             <div class="form-input-group">
                                 <i class="fa fa-users"></i><input name="diets" class=""
-                                                                  placeholder="Dietary restrictions"
+                                                                  placeholder="Dietary restrictions?"
                                                                   >
                             </div>
                         </div>
-                        <div class="col-md-6 col-sm-6">
+                        <div class="col-md-3 col-sm-3">
                             <div class="form-input-group">
                                 <i class="fa fa-key"></i>
-                                <select class="custom-select" id="inputGroupSelect01" name="misc">
+                                <select class="custom-select" id="inputGroupSelect01" name="attending">
                                     <option selected>Choose...</option>
-                                    <option value="1">One</option>
-                                    <option value="2">Two</option>
-                                    <option value="3">Three</option>
+                                    <option value="No">No</option>
+                                    <option value="Sat">Only Saturday</option>
+                                    <option value="Weekend">All Weekend!</option>
                                 </select>
-                                <!input name="misc" class="" placeholder="Another empty">
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="form-input-group">
+                                <i class="fa fa-key"></i>
+                                <select class="custom-select" id="inputGroupSelect02" name="stayonsite">
+                                    <option selected>Choose...</option>
+                                    <option value="Fri+Sat">All Weekend!</option>
+                                    <option value="Fri">Only Friday</option>
+                                    <option value="Sat">Only Saturday</option> 
+                                    <option value="No">No</option>
+                                </select>
                             </div>
                         </div>
                     </div>
