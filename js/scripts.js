@@ -241,15 +241,23 @@ $("#partysize").change(function() {
   if ($(this).val() == "2") {
     $('#extrarow-2a').show();
     $('#extrarow-2b').show();
+    $('#name2').attr('required', '');
+    $('#name2').attr('data-error', 'This field is required.');
   } else if ($(this).val() == "3") {    
     $('#extrarow-2a').show();
     $('#extrarow-2b').show();
+    $('#name2').attr('required', '');
+    $('#name2').attr('data-error', 'This field is required.');
   } else if ($(this).val() == "4") {    
     $('#extrarow-2a').show();
     $('#extrarow-2b').show();
+    $('#name2').attr('required', '');
+    $('#name2').attr('data-error', 'This field is required.');
   } else {
     $('#extrarow-2a').hide();
     $('#extrarow-2b').hide();
+    $('#name2').removeAttr('required');
+    $('#name2').removeAttr('data-error');
   }
 });
 $("#partysize").trigger("change");
