@@ -863,7 +863,7 @@ header .member-actions {
   transform: translateY(-50%);
   margin-left: 20px;
 }
-.rsvp .rsvp-form .form-input-group input, .rsvp .rsvp-form .form-input-group .custom-select {
+.rsvp .rsvp-form .form-input-group input {
   padding-left: 68px;
   width: 100%;
   height: 100%;
@@ -872,6 +872,17 @@ header .member-actions {
   border-radius: 6px;
   border: none;
 }
+
+.rsvp .rsvp-form .form-input-group .custom-select {
+  padding-left: 10px;
+  width: 100%;
+  height: 100%;
+  -moz-border-radius: 6px;
+  -webkit-border-radius: 6px;
+  border-radius: 6px;
+  border: none;
+}
+
 .rsvp .rsvp-form .form-input-group input::-webkit-input-placeholder {
   color: #bcc1c3;
 }
