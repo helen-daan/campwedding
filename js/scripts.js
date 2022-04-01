@@ -184,7 +184,7 @@ $(document).ready(function () {
         },
         data: {
             // Event title
-            title: "Daan & Helen's Wedding",
+            title: "Helen & Daan's Wedding",
 
             // Event start date
             start: new Date('Aug 11, 2023 18:00'),
@@ -197,10 +197,10 @@ $(document).ready(function () {
             end: new Date('Aug 13, 2023 11:59'),
 
             // Event Address
-            address: 'ITC Fortune Park Hotel, Kolkata',
+            address: 'Berkshire Lake Camp, 822 Peru Rd, Hinsdale, MA 01235',
 
             // Event Description
-            description: "We can't wait to see you on our big day. For any queries or issues, please contact Mr. Amit Ray at +91 9876543210."
+            description: "We can't wait to see you on our big day! For any urgent questions text Daan at +1(781)-975-4146."
         }
     });
 
