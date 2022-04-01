@@ -345,9 +345,9 @@ section .header {
 }
 .hero {
   min-height: 500px;
-  /*background-color: rgba(215,180,140,.7);*/
-  background-image: url("../img/test-stock.jpeg");
-  background-blend-mode: color;
+  background-color: rgba(100,130,140,.6);*/
+  background-image: url("../img/philly2021.png");
+  background-blend-mode: soft-light;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -372,6 +372,11 @@ section .header {
   width: 55%;
   margin-bottom: 12%;
 }
+
+div#hero-btn {
+    padding-bottom: 100px;
+}
+
 .navigation {
   transition: all 300ms ease-in-out;
   position: fixed;
