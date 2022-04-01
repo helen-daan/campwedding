@@ -376,73 +376,64 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 col-md-offset-3">
-                <h3>What are you waiting for?</h3>
+                <h3>Will you be joining us?</h3>
                 <p>We would greatly appreciate if you could RSVP before DATE</p>
                 <form id="rsvp-form" class="rsvp-form"
                       action=""
                       method="POST">
-                      <div class="row">
-                      
-                          <div class="col-md-6 col-sm-6">
-                            <div class="form-input-group">
-                                <i class="fa fa-user"></i><input name="name" class=""
-                                                                 placeholder="Your name"
-                                                                 required>
-                            </div>
-                        </div>
-                    
-                    
-                    
+                     
+                   <div class="row">
                         <div class="col-md-6 col-sm-6">
                             <div class="form-input-group">
-                                <i class="fa fa-envelope"></i><input type="email" name="email" class=""
-                                                                     placeholder="Your email"
-                                                                     required>
-                            </div>
-                        </div>
-
-                    </div>
-                    <div class="row">
-                        <div class="col-md-6 col-sm-6">
-                            <div class="form-input-group">
-                                <i class="fa fa-users"></i><input type="number" name="extras" class="" min="0"
-                                                                  max="4"
-                                                                  placeholder="Do you have any plus ones?"
-                                                                  required>
+                                <i class="fa fa-users"></i><input type="number" name="extras" class="" min="1"
+                                                                  max="4" placeholder="How many people are you filling in for?" required>
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6">
                             <div class="form-input-group">
                                 <i class="fa fa-key"></i><input type="number" name="invite_code" id="invite_code"
-                                                                class="" min="0"
-                                                                placeholder="Invite code"
-                                                                required>
+                                                                class="" min="0" placeholder="Invite code"  required>
                             </div>
                         </div>
                     </div>
+                    
+                    <div class="row">
+                          <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-user"></i><input name="name1" class=""
+                                                                 placeholder="Name" required>
+                            </div>
+                          </div>
+                    
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-envelope"></i><input type="email" name="email1" class=""
+                                                                     placeholder="Email" required>
+                            </div>
+                        </div>
+                    </div>
+                    
                     <div class="row">
                         <div class="col-md-6 col-sm-6">
                             <div class="form-input-group">
-                                <i class="fa fa-users"></i><input name="diets" class=""
-                                                                  placeholder="Dietary restrictions?"
-                                                                  >
+                                <i class="fa fa-users"></i><input name="diet1" class=""
+                                                                  placeholder="Dietary restrictions?">
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="form-input-group">
                                 <div class="row"> <p>Will you attend?</p> </div>
-                                <select class="custom-select" id="inputGroupSelect01" name="attending">
+                                <select class="custom-select" id="attend1" name="attending">
                                     <option selected>Choose...</option>
                                     <option value="Weekend">Yes, all weekend!</option>
                                     <option value="Sat">Yes, only Saturday</option>
-                                    <option value="No">No</option>
-                                    
+                                    <option value="No">No</option>   
                                 </select>
                             </div>
                         </div>
                         <div class="col-md-3 col-sm-3">
                             <div class="form-input-group">
-                                <select class="custom-select" id="inputGroupSelect02" name="stayonsite">
+                                <select class="custom-select" id="stay1" name="stayonsite">
                                     <div class="row"> <p>Are you staying on site?</p> </div>
                                     <option selected>Choose...</option>
                                     <option value="Fri+Sat">Yes, all weekend!</option>
@@ -453,6 +444,58 @@
                             </div>
                         </div>
                     </div>
+                    
+                    
+                    <div class="row">
+                          <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-user"></i><input name="name2" class=""
+                                                                 placeholder="Name 2" required>
+                            </div>
+                          </div>
+                    
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-envelope"></i><input type="email" name="email2" class=""
+                                                                     placeholder="Email 2 (opt)" >
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-users"></i><input name="diet2" class=""
+                                                                  placeholder="Dietary restrictions?">
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="form-input-group">
+                                <div class="row"> <p>Will you attend?</p> </div>
+                                <select class="custom-select" id="attend2" name="attending">
+                                    <option selected>Choose...</option>
+                                    <option value="Weekend">Yes, all weekend!</option>
+                                    <option value="Sat">Yes, only Saturday</option>
+                                    <option value="No">No</option>   
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="form-input-group">
+                                <select class="custom-select" id="stay2" name="stayonsite">
+                                    <div class="row"> <p>Are you staying on site?</p> </div>
+                                    <option selected>Choose...</option>
+                                    <option value="Fri+Sat">Yes, all weekend!</option>
+                                    <option value="Fri">Yes, only Friday</option>
+                                    <option value="Sat">Yes, only Saturday</option> 
+                                    <option value="No">No</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    
                     <div class="row">
                         <div class="col-md-12" id="alert-wrapper"></div>
                     </div>
