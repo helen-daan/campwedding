@@ -236,9 +236,15 @@ $(document).ready(function () {
     });
 
 });
-
+// Change size of form depending on input
 $("#partysize").change(function() {
   if ($(this).val() == "2") {
+    $('#extrarow-2a').show();
+    $('#extrarow-2b').show();
+  } else if ($(this).val() == "3") {    
+    $('#extrarow-2a').show();
+    $('#extrarow-2b').show();
+  } else if ($(this).val() == "4") {    
     $('#extrarow-2a').show();
     $('#extrarow-2b').show();
   } else {
