@@ -802,6 +802,11 @@ header .member-actions {
   width: 80%;
   margin: auto;
 }
+
+section#map {
+    height: 700px;
+}
+
 #map-content-wrapper {
   position: relative;
   margin-top: -502px;
