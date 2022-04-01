@@ -237,6 +237,17 @@ $(document).ready(function () {
 
 });
 
+$("#partysize").change(function() {
+  if ($(this).val() == "2") {
+    $('#extrarow-2a').show();
+    $('#extrarow-2b').show();
+  } else {
+    $('#extrarow-2a').hide();
+    $('#extrarow-2b').hide();
+  }
+});
+$("#partysize").trigger("change");
+
 /********************** Extras **********************/
 
 // Google map
