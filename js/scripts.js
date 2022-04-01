@@ -200,7 +200,7 @@ $(document).ready(function () {
             address: 'Berkshire Lake Camp, 822 Peru Rd, Hinsdale, MA 01235',
 
             // Event Description
-            description: "We can't wait to see you on our big day! For any urgent questions text Daan at +1(781)-975-4146."
+            description: "We can't wait to see you on our big day! For any urgent questions or emergencies text Daan at +1(781)-975-4146."
         }
     });
 
@@ -212,11 +212,11 @@ $(document).ready(function () {
         e.preventDefault();
         var data = $(this).serialize();
 
-        $('#alert-wrapper').html(alert_markup('info', '<strong>Just a sec!</strong> We are scooping your details.'));
+        $('#alert-wrapper').html(alert_markup('info', '<strong>Just a sec!</strong> We are saving your details.'));
 
         if (MD5($('#invite_code').val()) !== 'b0e53b10c1f55ede516b240036b88f40'
             && MD5($('#invite_code').val()) !== '16a44bba61d179d206e451fee03db75b') {
-            $('#alert-wrapper').html(alert_markup('danger', '<strong>Sorry!</strong> Your invite code is niet goed zo.'));
+            $('#alert-wrapper').html(alert_markup('danger', '<strong>Sorry!</strong> Your invite code is incorrect.'));
         } else {
             $.post('https://script.google.com/macros/s/AKfycbz1kEAamCi51KxSIK72PtNezlm8pSDIXlFMFO5Rca3Db4Bg-DqAVKc05I1HJC2YKMtoVw/exec', data)
                 .done(function (data) {
