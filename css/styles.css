@@ -351,6 +351,7 @@ section .header {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  background-position: top center;
 }
 .hero .down-arrow a {
   color: #fff;
