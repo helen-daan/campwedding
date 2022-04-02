@@ -494,6 +494,17 @@ header .member-actions {
   width: 100%;
   height: auto;
 }
+
+img.nameimg {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 10px;
+    height: 80% !important;
+    object-fit: contain;
+    display: block;
+}
+
 #intro p {
   text-align: center;
 }
