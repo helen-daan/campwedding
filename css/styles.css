@@ -818,6 +818,7 @@ img.nameimg {
   height: 500px;
   width: 80%;
   margin: auto;
+  margin-top: 16px;
 }
 
 section#map {
