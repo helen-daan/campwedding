@@ -823,7 +823,7 @@ img.nameimg {
 }
 
 section#map {
-    height: fit-content;
+    height: 850px;
 }
 
 #map-content-wrapper {
