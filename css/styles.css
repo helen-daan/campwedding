@@ -473,6 +473,12 @@ header .member-actions {
   z-index: 2;
 }
 
+@media (min-width: 54px) and (max-width: 767px) {
+  .hidden-xs2 {
+    display: none;
+  }
+}
+
 .intro span.icon {
   font-size: 40px;
   color: #e8ca6f;
