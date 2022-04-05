@@ -479,6 +479,12 @@ header .member-actions {
   }
 }
 
+@media (max-width: 539px) {
+  .hidden-xs1 {
+    display: none;
+  }
+}
+
 .intro span.icon {
   font-size: 40px;
   color: #e8ca6f;
