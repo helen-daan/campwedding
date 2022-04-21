@@ -22,11 +22,12 @@ h2 {
 }
 h3 {
   color: #3d4351;
-  font-size: 18px;
+  font-size: 26px;
   font-weight: 700;
-  text-transform: uppercase;
-  letter-spacing: 3px;
+  text-transform: capitalize;
+  letter-spacing: 1.5px;
   line-height: 29px;
+  font-family: 'Radley';
 }
 h4 {
   font-size: 18px;
@@ -34,8 +35,9 @@ h4 {
 h5 {
   font-size: 15px;
   color: #3d4351;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 500;
+  font-family: monospace;
 }
 .btn {
   font-size: 13px;
@@ -128,7 +130,7 @@ a:focus {
   text-decoration: none;
 }
 body {
-  font-family: 'Cabin', sans-serif;
+  font-family: 'Quattrocento Sans', sans-serif;
   font-weight: 400;
   color: rgba(28, 54, 83, 0.6);
   -webkit-text-size-adjust: 100%;
@@ -828,6 +830,8 @@ img.nameimg {
   font-size: 30px;
   font-weight: 300;
   letter-spacing: 10px;
+  text-transform: uppercase;
+  font-family: 'Quattrocento Sans';
 }
 #video-content p {
   color: #ffffff;
