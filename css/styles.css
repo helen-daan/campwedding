@@ -96,7 +96,7 @@ section.features,
 section.events,
 section.blog,
 section.faq {
-  background: #f8f9fd;
+  background: #3c763d25;
 }
 .group:after {
   content: "";
