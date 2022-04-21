@@ -39,6 +39,13 @@ h5 {
   font-weight: 500;
   font-family: monospace;
 }
+
+b, strong {
+    font-weight: 700;
+    color: black;
+    letter-spacing: .5px;
+}
+
 .btn {
   font-size: 13px;
   border: solid 2px;
