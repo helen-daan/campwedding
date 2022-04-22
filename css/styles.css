@@ -4,7 +4,8 @@
 @import url(https://fonts.googleapis.com/css?family=Cabin);
 @import url(https://fonts.googleapis.com/css?family=Radley);
 @import url(https://fonts.googleapis.com/css?family=Quattrocento+Sans);
-
+@import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
+@import url(https://fonts.googleapis.com/css?family=Square+Peg);
 
 p {
   font-size: 15px;
@@ -1002,7 +1003,7 @@ body.modal-open {
 
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
-  background-color: #f8f9fd;
+  background-color: #3c763d0f;
   color: #444;
   cursor: pointer;
   padding: 18px;
