@@ -34,19 +34,19 @@ h4 {
   font-size: 18px;
 }
 h5 {
-  font-size: 15px;
+  font-size: 16px;
   color: #3d4351;
   text-transform: capitalize;
   font-weight: 500;
-  font-family: monospace;
+  font-family: 'Kaushan script';
 }
 
 h6 {
-  font-size: 18px;
+  font-size: 24px;
   color: #3d4351;
   text-transform: capitalize;
   font-weight: 500;
-  font-family: monospace;
+  font-family: 'Quattrocento Sans';
 }
 
 b, strong {
