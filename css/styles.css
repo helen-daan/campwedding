@@ -7,6 +7,12 @@
 @import url(https://fonts.googleapis.com/css?family=Kaushan+Script);
 @import url(https://fonts.googleapis.com/css?family=Square+Peg);
 
+:root {
+    --backround-color: #011f4b;
+    --primary-color: #bbe2c6;
+    --secondary-color: #ffffff;
+}
+
 p {
   font-size: 15px;
   line-height: 29px;
