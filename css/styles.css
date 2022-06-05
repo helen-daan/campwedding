@@ -375,7 +375,7 @@ section .header {
 .hero {
   min-height: 40vw;
   background-color: rgba(100,130,140,.6);
-  background-image: url("../img/philly2021.png");
+  background-image: url("../img/boom1.png");
   background-blend-mode: soft-light;
   -webkit-background-size: cover;
   -moz-background-size: cover;
