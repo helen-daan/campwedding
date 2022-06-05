@@ -374,7 +374,7 @@ section .header {
 }
 .hero {
   min-height: 40vw;
-  background-color: rgba(100,130,140,.2);
+  background-color: rgba(100,100,140,.2);
   background-image: url("../img/boom1.png");
   background-blend-mode: soft-light;
   -webkit-background-size: cover;
