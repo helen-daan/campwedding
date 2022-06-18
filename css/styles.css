@@ -866,14 +866,10 @@ img.nameimg {
   margin-top: 16px;
 }
 
-section#map {
-    height: 850px;
-}
-
 #map-content-wrapper {
   position: relative;
   margin-top: -502px;
-  margin-bottom: 150px;
+  margin-bottom: 240px;
 }
 #map-content {
   margin: auto;
