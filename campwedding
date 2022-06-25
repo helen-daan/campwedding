@@ -1,0 +1,777 @@
+<!doctype html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <title>Helen & Daan getting married!</title>
+    <meta name="description" content="We would like to invite you to our big day.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="Daan & Helen getting married">
+    <meta property="og:description" content="We would like to invite you to our big day.">
+    <meta property="og:image" content="img/engagement1.png"> 
+    <meta property="og:type" content="website">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="manifest" href="site.webmanifest">
+    <link rel="mask-icon" href="safari-pinned-tab.svg" color="#ff0022">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="stylesheet" href="css/normalize.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <link rel="stylesheet" href="css/flexslider.css">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/queries.css">
+    <link rel="stylesheet" href="node_modules/animate.css/animate.min.css">
+    <!--link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css"-->
+    <script src="https://kit.fontawesome.com/b13576220e.js" crossorigin="anonymous"></script>
+    <script src="js/vendor/modernizr-2.8.3-respond-1.4.2.min.js"></script>
+</head>
+<body id="top">
+
+    
+<!--[if lt IE 8]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade
+    your browser</a> to improve your experience.</p>
+<![endif]--> 
+
+<section class="hero">
+    <section class="navigation">
+        <header>
+            <div class="header-content">
+                <div class="logo"><a href="#"><img src="img/hd_logo-pink.png" alt="Logo"></a></div>
+                <div class="header-nav">
+                    <nav>
+                        <ul class="primary-nav">
+                            <li><a href="#weekend">Itinerary</a></li>
+                            <li><a href="#venue">Camp</a></li>
+                            <li><a href="#timeline">Our First Six Years</a></li>
+                            <li><a href="#faq">Other questions</a></li>
+                        </ul>
+                        <ul class="member-actions">
+                            <li><a href="#rsvp" class="btn-white btn-small">RSVP (available soon)</a></li>
+                            <li><a href="/kampbruiloft.html" class="btn-accent btn-small">Nederlands</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                <div class="navicon">
+                    <a class="nav-toggle" href="#"><span></span></a>
+                    <a href="/kampbruiloft.html" class="btn-accent btn-small lang" style="/* background: black; */height: 50px;margin-right: 70px;line-height: 25px;border-radius: 50%;/* font-size: 15px; */text-align: center;width: 50px;padding: 8px;border: 2px solid;color: white;"><strongw>NL</strongw></a>
+                </div>
+            </div>
+        </header>
+    </section>
+    <div class="container">
+        <div class="row" id="hero-btn">
+            <div class="col-sm-4 hidden-xs"></div>
+            <!--div class="col-sm-4 hidden-xs text-center"><a href="#rsvp"
+                                                           class="btn btn-accent btn-large rsvp-btn">RSVP (available soon)</a></div-->
+            <div class="col-sm-4 hidden-xs"></div>
+        </div>
+    </div>
+    <div class="down-arrow floating-arrow"><a href="#invitation"><i class="fa fa-angle-down"></i></a></div>
+</section>
+
+<section id="invitation" class="section-padding">
+    
+     <div class="hidden-xs hidden-sm hidden-lg" style="
+    background: url('img/forestline.png');
+    background-size: contain;
+    background-repeat: repeat-x;
+    height: 200px;
+    margin-top: -120px;
+    filter: invert(100%);
+    "></div>
+
+    <div class="hidden-xs1 hidden-sm hidden-md hidden-lg" id="xs1" style="
+    background: url('img/forestline.png');
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-position: top;
+    height: 200px;
+    margin-top: -20vw;
+    filter: invert(100%);
+    "></div>
+    
+    <div class="hidden-xs2 hidden-sm hidden-md hidden-lg" id="xs1" style="
+    background: url('img/forestline.png');
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-position: top;
+    height: 200px;
+    margin-top: -28vw;
+    filter: invert(100%);
+    "></div>
+    
+<div class="hidden-xs hidden-md hidden-lg" style="
+    background: url('img/forestline.png');
+    background-size: contain;
+    background-repeat: repeat-x;
+    height: 200px;
+    margin-top: -15%;
+    filter: invert(100%);
+    "></div>
+<div class="hidden-xs hidden-sm hidden-md" style="
+    background: url('img/forestline.png');
+    background-position: top;
+    background-size: contain;
+    background-repeat: repeat-x;
+    height: 15vw;
+    margin-top: -10vw;
+    filter: invert(100%);
+    "></div>
+    
+    <div class="container" style="margin-top: -100px;">
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1 text-center">
+                <h3><i class="fa fa-envira fa-lg"></i>We're getting married!<i class="fa fa-envira fa-lg fa-flip-horizontal"></i></h3>
+                <p> We are excited to invite you to join us for a whole weekend of fun and celebration. 
+                    Our ceremony will take place on Saturday, but we encourage you to
+                    join us at the lake for all of <strong>August 11-13, 2023</strong> for the full
+                    summer camp experience. On this website you will (eventually) find helpful details
+                    about the what and whereabouts, but for now, please join us in dreaming of bonfires, cabins, 
+                    and the great outdoors. </p>
+            </div>
+        </div>.
+    </div>
+    
+</section>
+   
+<section class="events section-padding" id="weekend">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h3 class="header">The Weekend</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4 col-sm-12 col-xs-12 leftcol">
+                <div class="wp3">
+                    <h6>Friday</h6><p></p>
+
+                    <h5>Check-in <span class="time"> late afternoon</span></h5>
+                    <p>Find your cabin, explore the grounds.</p>
+                </div>
+                <div class="wp5">
+                    <h5>Welcome reception <span class="time"> evening</span></h5>
+                    <p> A casual affair with food and drink. Think beer canoe, bonfire, and, as is traditional at Dutch weddings, skits and stories. </p>
+                </div>
+                
+            </div>
+            
+            <div class="col-md-4 col-sm-12 col-xs-12 midcol">
+                <div class="wp3">
+                    <h6>Saturday</h6><p></p>
+
+                    <h5> Relaxing by the lake <span class="time"> morning </span></h5>
+                    <p> Enjoy yourself before getting ready. Play lawn games, have a swim, go for a paddle. Light breakfast and lunch provided. </p>
+                </div>
+                <div class="wp5">
+                    <h5>Ceremony <span class="time"> late afternoon </span></h5>
+                    <p>The official component, followed by cake.</p>
+                </div>
+                <div class="wp6">
+                    <h5>Reception <span class="time"> evening </span></h5>
+                    <p>Dinner and dancing.</p>
+                </div>
+            </div>
+            
+            <div class="col-md-4 col-sm-12 col-xs-12 rightcol">
+                <div class="wp4">
+                    <h6>Sunday</h6><p></p>
+
+                    <h5>Morning-after brunch <span class="time">morning</span></h5>
+                    <p> A final camp breakfast before hitting the road.</p>
+                </div>
+                <div class="wp6">
+                    <h5>Goodbyes <span class="time">early afternoon</span></h5>
+                    <p> Said road.</p>
+                </div>
+            </div>
+        </div>
+        <div class="row section-padding">
+            <div class="col-md-4 col-md-offset-4 text-center">
+                <a class="btn btn-accent btn-small" data-toggle="modal" data-target="#dc-modal">
+                    <i class="fa fa-barcode"></i>&nbsp;&nbsp;Dress code
+                </a>
+            </div>
+        </div>
+        <!--<div class="row">
+            <div class="col-xs-12 section-border section-padding">
+            </div>
+        </div>-->
+    </div>
+
+    <div id="dc-modal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span>&times;</span>
+                    </button>
+                    <h3 class="text-center section-padding">Dress codes?</h3>
+                    <p>Fill in later...</p>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+</section>
+        
+    
+    
+<section id="video-bg" class="hidden-sm hidden-xs">
+    <div id="bgndVideo" class="player"
+         data-property="{videoURL:'https://youtu.be/8V3PUnNjEpY',containment:'#video-bg',autoPlay:true, mute:true, showControls:false, startAt:6, stopAt:24, opacity:1}">
+    </div>
+    <div id="video-content">
+        <h5>Ashmere Lake State Park</h5>
+    </div>
+</section>
+
+<section id="venue" class="section-padding">
+   <div class="container">
+    <div class="row">
+        <div class="col-md-10 col-md-offset-1 text-center">
+            <h3>The Camp</h3>
+            <p>All of our guests are welcome and encouraged to stay with us at Berkshire Lake Camp for our
+            wedding weekend. We will add pictures in the summer (our current ones feature way too much snow), but if you would like an impression now, 
+                the venue's website is <a href="https://berkshirelakecamp.com">here</a>. We will have the entire
+                grounds to ourselves. </p>
+            
+            <p>The cabins are rustic but have electricity, wifi and bathrooms for each room. Each room 
+                contains 7 (single) bunkbeds, but they do not have to be filled. We have enough cabins that no one has
+                to share a bunkbed if they do not want to.</p> 
+            
+            <p> The cost to stay on site in a cabin will be ~$60 per person per night (children under 5 are free). 
+                When we receive your RSVP, we will send you payment instructions. </p>
+            
+            <p> If our cabins are outside your or your body's comfort zone, we understand that
+                you may want to make alternative sleeping arrangements. There are hotels and (air)b&bs within 
+                a reasonable driving distance from the lake, but be aware that they can get 
+                quite expensive if not booked early. Whether or not you are staying with us at the lake, 
+                everyone is invited to all meals and activities.</p>  
+                
+        </div> 
+       </div>
+    </div>
+</section>
+    
+    
+<section id="map" class="section-padding">
+    <div class="text-center">
+        <h3>Directions</h3>
+        <button class="accordion"><i class="fa-solid fa-plane-up"></i></button>
+        <div class="panel">
+        <p>The best international airports are Boston Logan International Airport (BOS), New York’s JFK International Airport (JFK), and Newark Liberty International Airport (EWR). The closest airport is in Albany, NY, which is connected to most major US cities east of the Mississippi. </p>
+        </div>
+
+        <button class="accordion"><i class="fa-solid fa-train"></i></button>
+        <div class="panel">
+        <p>Pittsfield, MA is a 20 min drive from our campsite and has good connections to the major cities in the North East. Let us know if you want us to pick you up from there. If your particular journey wants you to arrive extra early on Friday, that should be more than fine but please let us know.</p>
+        <p>Pittsfield station is located on the Amtrak “Lake Shore Limited” line between Boston and Albany (and eventually Chicago), which carries one train daily in each direction (1PM from Boston, 3:30PM from Albany (though the latter train is often delayed)). Guests from New Haven and New York City could consider taking the Vermonter line to Springfield, MA and transfer to the Lake Shore Limited line there.</p>
+        </div>
+
+        <button class="accordion"><i class="fa-solid fa-bus"></i></button>
+        <div class="panel">
+         <p>Pittsfield, MA is a 20 min drive from our campsite and has good connections to the major cities in the North East. Let us know if you want us to pick you up from there. If your particular journey wants you to arrive extra early on Friday, that should be more than fine but please let us know.</p>
+         <p>There are direct Peter Pan buses to Pittsfield from Port Authority (New York City), Albany Bus Terminal and Worcester station. From Boston, there is a direct Greyhound bus departing from South Station. From New Haven, you can use a Greyhound service that changes in Springfield, MA.</p>
+        </div>
+        
+        <button class="accordion"><i class="fa-solid fa-car"></i></button>
+        <div class="panel">
+         <p>The exact address is 822 Peru Rd, Hinsdale, MA 01235. There is plenty of parking for all who need it.</p>
+        </div>
+        
+        
+    </div>
+    <div id="map-canvas"></div>
+    <div id="map-content-wrapper" class="container pointer-events-none">
+        <div class="row">
+            <div class="col-xs-offset-1 col-xs-10 col-md-offset-3 col-md-6">
+                <div class="text-center">
+                    <div id="btn-show-content" class="toggle-map-content pointer-events-auto">
+                        <i class="fa fa-info-circle"></i>&nbsp;&nbsp; Show info
+                    </div>
+                </div>
+                <div id="map-content" class="pointer-events-auto">
+                    <div class="row text-center">
+                        <div>
+                            <h5>Berkshire Lake Camp</h5>
+                            <p>822 Peru Rd<br> Hinsdale, MA 01235</p>
+                        </div>
+                    </div>
+                    <div class="row text-center">
+                        <div>
+                            <a class="btn btn-accent btn-small" id="btn-show-map"><i class="fa fa-map-marker"></i>&nbsp;&nbsp;Show
+                                map</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>    
+    
+    
+    
+    
+<!--section id="pics" class="section-padding">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h3 class="header">Pictures</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2">
+                <a class="fancybox" rel="group" href="img/eng/boston2019.jpg">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search"></i>
+                        </div>
+                        <img class="img-thumbnail"; src="img/eng/boston2019.jpg" alt="" width="400" height="600"/>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-2">
+                <a class="fancybox" rel="group" href="img/eng/curacao.png">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search"></i>
+                        </div>
+                        <img class="img-thumbnail"; src="img/eng/curacao.png" alt=""  width="400" height="600"/>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-2">
+                <a class="fancybox" rel="group" href="img/eng/iceland.jpg">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search"></i>
+                        </div>
+                        <img class="img-thumbnail"; src="img/eng/iceland.jpg" alt=""  width="400" height="600"/>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-2">
+                <a class="fancybox" rel="group" href="img/eng/paris2018.png">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search"></i>
+                        </div>
+                        <img class="img-thumbnail"; src="img/eng/paris2018.png" alt=""  width="400" height="600"/>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-2">
+                <a class="fancybox" rel="group" href="img/eng/sicily.jpg">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search"></i>
+                        </div>
+                        <img class="img-thumbnail"; src="img/eng/sicily.jpg" alt=""  width="400" height="600"/>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-2">
+                <a class="fancybox" rel="group" href="img/eng/wales.jpeg">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search"></i>
+                        </div>
+                        <img class="img-thumbnail"; src="img/eng/wales.jpeg" alt=""  width="400" height="600"/>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row hidden-lg hidden-md hidden-xs">
+            <div class="col-xs-12 section-border section-padding"></div>
+        </div>
+    </div>
+    <!--<div class="row">
+        <div class="col-md-12">
+            <div class="diamond floating-logo">
+                <img src="img/sketch-logo.png" alt="Sketch Logo">
+                <div class="ring"></div>
+            </div>
+        </div>
+    </div>>
+</section-->  
+    
+<section id="timeline" class="section padding">
+       <div class="row">
+            <div class="col-md-12 text-center">
+                <h3 class="header">Our first six years </h3>
+            </div>
+        </div>  
+    
+    <ul>
+          
+        <h3>2016</h3> 
+        <li>
+          <div>
+                <a class="fancybox" rel="group" href="img/eng/bop.JPG">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search" aria-hidden="true"></i>
+                        </div>
+                        <img class="img-thumbnail" ;="" src="img/eng/bop.JPG" alt="" width="400" height="600">
+                    </div>
+                </a>
+                <p>
+                    We first meet in Oxford where we both enrolled at Balliol College. True to the laws of small-town romance,
+                    we kept running into each other in the first week: We were the only not-really-medical students invited to a medical reception 
+                    (Helen for her Master's in Psychiatry, Daan for his PhD in Neuroscience). We both eagerly threw ourselves
+                    onto the collegial politics (not of the Boris Johnson's Oxford variety). Both having picked Balliol for its chapel choir, 
+                    Daan's tenor bench was right behind Helen's soprano section. And most importantly, we gravitated towards the same 
+                    people as friends. This picture is our first picture together, a '60s themed party at the end of the second week, celebrating
+                    Balliol's founding in 1263.
+                </p>
+           </div> 
+        </li>  
+          
+       <h3>2017</h3> 
+        <li>
+          <div>
+                <a class="fancybox" rel="group" href="img/eng/iceland.jpg">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search" aria-hidden="true"></i>
+                        </div>
+                        <img class="img-thumbnail" ;="" src="img/eng/iceland.jpg" alt="" width="400" height="600">
+                    </div>
+                </a>
+                <p>
+                    Helen moves to Boston early and we start out long-distance relationship. 
+                    The time difference was fortunately abated by our natural rhythms 
+                    (6am yoga for Helen vs late-night sudoku for Daan) and we soon coasted
+                    along through Skype calls. Of course, we also frequently crossed the Atlantic 
+                    for sleepovers. We have especially fond memories of Reykjavik, our halfway respite. 
+                </p>
+           </div> 
+        </li>  
+        
+         <h3>2018</h3> 
+        <li>
+          <div>
+                <a class="fancybox" rel="group" href="img/parents.png">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search" aria-hidden="true"></i>
+                        </div>
+                        <img class="img-thumbnail" ;="" src="img/parents.png" alt="" width="400" height="600">
+                    </div>
+                </a>
+                <p>
+                    The major milestone this year was that we met each other's parents for the first time. Both firsts 
+                    happened in Boston and — perhaps thanks to bloody marys and Baldwin the Eagle respectively — went pretty smoothly.
+                    Both sets of parents have yet to meet each other, but we figured: we can save that multilingual scramble for
+                    if we ever get married, well, here we are!
+                </p>
+           </div> 
+        </li>  
+          
+        <h3>2019</h3> 
+        <li>
+          <div>
+                <a class="fancybox" rel="group" href="img/eng/boston2019.jpg">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search" aria-hidden="true"></i>
+                        </div>
+                        <img class="img-thumbnail" ;="" src="img/eng/boston2019.jpg" alt="" width="400" height="600">
+                    </div>
+                </a>
+                <p>
+                    Daan finally moves to Boston! Blissfully, we move in together right away… 
+                    to an apartment without a dishwasher. Oh, to be young and in love.
+                </p>
+           </div> 
+        </li>  
+        
+        <h3>2020</h3> 
+        <li>
+          <div>
+                <a class="fancybox" rel="group" href="img/cosmo.jpg">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search" aria-hidden="true"></i>
+                        </div>
+                        <img class="img-thumbnail" ;="" src="img/cosmo.jpg" alt="" width="400" height="600">
+                    </div>
+                </a>
+                <p>
+                    As life moved indoors, we join the sourdough starter bandwagon and spend
+                    a lot of time with our collection of boardgames. Working towards the Dutch
+                    proverbial requirements for settling down – a house, a tree, and an animal;
+                    but you can scratch the first for now – we welcome a ponytail palm into our 
+                    apartment and, more importantly, Cosmo! The fluffiest and most in-your-face
+                    cat that child Helen could have dreamed of, and yet magically, allergy-proof.
+                </p>
+           </div> 
+        </li>  
+        
+       <h3>2021</h3> 
+        <li>
+          <div>
+                <a class="fancybox" rel="group" href="img/eng/curacao.png">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search" aria-hidden="true"></i>
+                        </div>
+                        <img class="img-thumbnail" ;="" src="img/eng/curacao.png" alt="" width="400" height="600">
+                    </div>
+                </a>
+                <p>
+                    This year strangely resembled 2017. Not only did we travel again to a faraway 
+                    island (a warm one this time: Curaçao), but we went LDR again! Fortunately, it 
+                    was only for a month while Daan got stuck after visiting Europe. No biggie! 
+                    Sometime this year, we also realised we’ll probably do alright as an elderly couple. 
+                    We basically discovered that we don’t remember the order of our past date nights but
+                    enjoy bickering over it. Full disclosure, it may've been 2020 when this conversation
+                    happened.
+                </p>
+           </div> 
+        </li>
+  
+        <h3>Now!</h3> 
+        <li>
+          <div>
+                <a class="fancybox" rel="group" href="img/golfcourse3.png">
+                    <div class="img-wrap">
+                        <div class="overlay">
+                            <i class="fa fa-search" aria-hidden="true"></i>
+                        </div>
+                        <img class="img-thumbnail" ;="" src="img/golfcourse3.png" alt="" width="400" height="600">
+                    </div>
+                </a>
+                <p>
+                    And now we are here, happily engaged in our new flat in New Haven. We hope that we will see all of you in little over a year for the next step, and in the many years and steps after that.
+                </p>
+           </div> 
+        </li>  
+          
+          
+    </ul>
+</section>
+    
+    
+    
+<section id="faq" class="faq section-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h3>Frequently Asked Questions</h3>
+                <p>To Be Added. </p>
+            </div>
+        </div>
+    </div>
+</section>
+    
+    
+        
+        
+<section class="rsvp text-center" id="rsvp">
+
+    <div id="rsvp-modal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-body">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span>&times;</span>
+                    </button>
+                    <div class="section-padding">
+                        <h3>Thank you!</h3>
+                        <p>We are glad to see you join us on our big day.</p>
+                        <div id="add-to-cal"></div>
+                    </div>
+                </div>
+            </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h3>Will you be joining us? Please hold tight...</h3>
+                <p>We will open the RSVP function when we're done sampling dinner options. Please come back after you've received the official invitation. If you already know you <i>cannot</i> attend our wedding, feel free to let one of us know by text/email; we appreciate the early notice.</p>
+               
+                <form id="rsvp-form" class="rsvp-form"
+                      action=""
+                      method="POST">
+                   <div id="overlay"></div>
+                   <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-users"></i><input type="number" id="partysize" name="partysize" class="" min="1"
+                                                                  max="4" placeholder="How many people are you filling in for?" required>
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-key"></i><input type="number" name="invite_code" id="invite_code"
+                                                                class="" min="0" placeholder="Invite code"  required>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                          <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-user"></i><input name="name" class=""
+                                                                 placeholder="Name" required>
+                            </div>
+                          </div>
+                    
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-envelope"></i><input type="email" name="email" class=""
+                                                                     placeholder="Email" required>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-cutlery"></i><input name="diet" class=""
+                                                                  placeholder="Dietary restrictions?">
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="form-input-group">
+                                <select class="custom-select" id="attend1" name="attending">
+                                    <option selected>Will you attend?</option>
+                                    <option value="Weekend">Yes, all weekend!</option>
+                                    <option value="Sat">Yes, only Saturday</option>
+                                    <option value="No">No</option>   
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="form-input-group">
+                                <select class="custom-select" id="stay1" name="stayonsite">
+                                    <option selected>Need a bed?</option>
+                                    <option value="Fri+Sat">Yes, all weekend!</option>
+                                    <option value="Fri">Yes, only Friday</option>
+                                    <option value="Sat">Yes, only Saturday</option> 
+                                    <option value="No">No</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    <div class="row" id="extrarow-2a">
+                          <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-user"></i><input name="name" id="name2" class=""
+                                                                 placeholder="Name 2" required>
+                            </div>
+                          </div>
+                    
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-envelope"></i><input id="email2" type="email" name="email" class=""
+                                                                     placeholder="Email 2 (optional)" >
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="row" id="extrarow-2b">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-input-group">
+                                <i class="fa fa-cutlery"></i><input name="diet" id="diet2" class=""
+                                                                  placeholder="Dietary restrictions?">
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="form-input-group"> 
+                                <select class="custom-select" id="attend2" name="attending">
+                                    <option selected>Will you attend?</option>
+                                    <option value="Weekend">Yes, all weekend!</option>
+                                    <option value="Sat">Yes, only Saturday</option>
+                                    <option value="No">No</option>   
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <div class="form-input-group">
+                                <select class="custom-select" id="stay2" name="stayonsite">
+                                    <option selected>Need a bed?</option>
+                                    <option value="Fri+Sat">Yes, all weekend!</option>
+                                    <option value="Fri">Yes, only Friday</option>
+                                    <option value="Sat">Yes, only Saturday</option> 
+                                    <option value="No">No</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    
+                    
+                    <div class="row">
+                        <div class="col-md-12" id="alert-wrapper"></div>
+                    </div>
+                    <button class="btn-fill rsvp-btn">
+                        Yes,
+                        that's me!
+                    </button>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 text-center content">
+                <span class="to-top-wrapper"><a href="#top" class="to-top"><i class="fa fa-angle-up"></i></a></span>
+                <p>Crafted by <span class="fa fa-heart pulse2"></span></p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
+<script src="js/jquery.fancybox.pack.js"></script>
+<script src="js/vendor/bootstrap.min.js"></script>
+<script src="js/jquery.flexslider-min.js"></script>
+<script src="js/jquery.mb.YTPlayer.min.js"></script>
+<script src="node_modules/waypoints/lib/jquery.waypoints.min.js"></script>
+<script src="js/vendor/ouical.js"></script>
+<script src="js/scripts.js"></script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqxGokjSWXHaxLzTDWmbMBbrntSoAZb9k&callback=initMap"></script>
+   
+<!-- added by Daan -->    
+<!--script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script-->
+<!-- Google Analytics -->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-46465113-4', 'auto');
+    ga('send', 'pageview');
+</script>
+</body>
+</html>
